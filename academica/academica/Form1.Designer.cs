@@ -62,6 +62,7 @@
             this.grbDatosAlumno.Controls.Add(this.txtNombreAlumno);
             this.grbDatosAlumno.Controls.Add(this.lblCodigoAlumno);
             this.grbDatosAlumno.Controls.Add(this.txtCodigoAlumno);
+            this.grbDatosAlumno.Enabled = false;
             this.grbDatosAlumno.Location = new System.Drawing.Point(12, 12);
             this.grbDatosAlumno.Name = "grbDatosAlumno";
             this.grbDatosAlumno.Size = new System.Drawing.Size(598, 258);
@@ -234,6 +235,7 @@
             this.btnNuevoAlumno.TabIndex = 4;
             this.btnNuevoAlumno.Text = "Nuevo";
             this.btnNuevoAlumno.UseVisualStyleBackColor = true;
+            this.btnNuevoAlumno.Click += new System.EventHandler(this.btnNuevoAlumno_Click);
             // 
             // btnModificarAlumno
             // 
@@ -244,6 +246,7 @@
             this.btnModificarAlumno.TabIndex = 5;
             this.btnModificarAlumno.Text = "Modificar";
             this.btnModificarAlumno.UseVisualStyleBackColor = true;
+            this.btnModificarAlumno.Click += new System.EventHandler(this.btnModificarAlumno_Click);
             // 
             // btnEliminarAlumno
             // 
