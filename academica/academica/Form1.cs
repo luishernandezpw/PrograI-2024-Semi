@@ -155,5 +155,9 @@ namespace academica {
         private void grdDatosAlumnos_CellClick(object sender, DataGridViewCellEventArgs e) {
             seleccionarAllumno();
         }
+
+        private void btnBuscarAlumno_Click(object sender, EventArgs e) {
+
+        }
     }
 }
