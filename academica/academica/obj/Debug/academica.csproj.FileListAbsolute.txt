@@ -36,3 +36,5 @@ C:\Users\Estudiante\Source\Repos\PrograI-2024-Semi\academica\academica\bin\Debug
 C:\Users\Estudiante\Source\Repos\PrograI-2024-Semi\academica\academica\bin\Debug\academica.pdb
 C:\Users\Estudiante\Source\Repos\PrograI-2024-Semi\academica\academica\obj\Debug\academica.principal.resources
 C:\Users\Estudiante\Source\Repos\PrograI-2024-Semi\academica\academica\obj\Debug\academica.materias.resources
+C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\academica\academica\obj\Debug\academica.materias.resources
+C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\academica\academica\obj\Debug\academica.principal.resources
