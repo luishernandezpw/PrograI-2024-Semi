@@ -38,3 +38,4 @@ C:\Users\Estudiante\Source\Repos\PrograI-2024-Semi\academica\academica\obj\Debug
 C:\Users\Estudiante\Source\Repos\PrograI-2024-Semi\academica\academica\obj\Debug\academica.materias.resources
 C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\academica\academica\obj\Debug\academica.materias.resources
 C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\academica\academica\obj\Debug\academica.principal.resources
+C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\academica\academica\obj\Debug\academica.frm_usuario.resources
