@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\views\\Alumno.html"
     },
     {
+      "Id": "C:\\Users\\Luis Hernandez\\Desktop\\PrograI-2024-Semi\\sistema_academico\\sistema_academico\\wwwroot\\views\\index.html",
+      "PackagePath": "staticwebassets\\views\\index.html"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.sistema_academico.props",
       "PackagePath": "build\\sistema_academico.props"
     },
