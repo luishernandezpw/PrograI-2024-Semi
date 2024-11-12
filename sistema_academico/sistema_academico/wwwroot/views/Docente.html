@@ -1,5 +1,5 @@
 ﻿<form id="frmDocente" data-iddocente="0" data-accion="nuevo">
-    <div class="card text-bg-dark mb-3" style="min-width:700px;">
+    <div class="card text-bg-dark mb-3" style="width:700px;">
         <div class="card-header">
             <div class="d-flex">
                 Registro de Docentes
@@ -82,6 +82,7 @@
                 nombre: txtNombreDocente.value,
                 direccion: txtDireccionDocente.value,
                 telefono: txtTelefonoDocente.value,
+                foto: miArchivo.split(",")[1]
             },
                 method = "POST",
                 url = "https://localhost:7041/api/Docentes";
@@ -114,6 +115,8 @@
             txtNombreDocente.value = docente.nombre;
             txtDireccionDocente.value = docente.direccion;
             txtTelefonoDocente.value = docente.telefono;
+            miArchivo = `data:image/png;base64,${docente.foto}`
+            $("#imgPreVisualizacionFotoDocente").attr("src", miArchivo);
         }
         function limpiarDatosDocentes() {
             frmDocente.dataset.iddocente = 0;
@@ -122,5 +125,7 @@
             txtNombreDocente.value = "";
             txtDireccionDocente.value = "";
             txtTelefonoDocente.value = "";
+            $("#imgPreVisualizacionFotoDocente").attr("src", "");
+            miArchivo = null;
         }
 </script>

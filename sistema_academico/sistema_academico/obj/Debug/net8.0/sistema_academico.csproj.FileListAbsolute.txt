@@ -252,3 +252,9 @@ C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\sistema_academico\sistema_acad
 C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\sistema_academico\sistema_academico\obj\Debug\net8.0\sistema_academico.genruntimeconfig.cache
 C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\sistema_academico\sistema_academico\obj\Debug\net8.0\ref\sistema_academico.dll
 C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\sistema_academico\sistema_academico\bin\Debug\net8.0\sistema_academico.staticwebassets.runtime.json
+C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\sistema_academico\sistema_academico\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\sistema_academico\sistema_academico\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\sistema_academico\sistema_academico\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\sistema_academico\sistema_academico\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\sistema_academico\sistema_academico\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Luis Hernandez\Desktop\PrograI-2024-Semi\sistema_academico\sistema_academico\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
